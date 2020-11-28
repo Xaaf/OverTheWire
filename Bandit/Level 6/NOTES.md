@@ -11,3 +11,6 @@ Looking back into the manual file for `find` we can see that under the **TESTS**
 Let's try `find ./ -type f -size 1033c ! -executable`. As you can see we combined all three arguments we found which could lead to a solution. Hey! It worked! We get a single file as a return value, `./maybehere07/.file2`. Let's `cat` that file and get our password!
 
 The password we got is `DXjZPULLxYr17uwoI01bNLQbtFemEgo7`.
+
+## Sources
+https://overthewire.org/wargames/bandit/bandit6.html

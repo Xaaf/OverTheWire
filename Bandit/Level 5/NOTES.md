@@ -7,3 +7,6 @@ If we do a `ls` we can see that we got a total of 10 files. That'd not be too bi
 How do we easily check all files though? Well, for this we can just use a wildcard. Let's do `file ./-file*`. What this means is that we use the `file` command on every file in here starting with `-file`. Okay, the return we got is very useful. We can see that each file is of the type `data`, except for `-file07`, which is ASCII text! Let's try reading that one, maybe it contains the password. `cat ./-file07` returns the password we were looking for, awesome!
 
 The password we got is `koReBOKuIDDepwhWk7jZC0RTdopnAYKh`.
+
+## Sources
+https://overthewire.org/wargames/bandit/bandit5.html

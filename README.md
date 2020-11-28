@@ -11,15 +11,15 @@ Well, I'm just another 17 year-old with an interest in this sector. I'm basicall
 **Yes!** I'll gladly take any tips or feedback you have! Just make a new [Issue](https://github.com/Xaaf/OverTheWire/issues/new) with the related level and your feedback! I'd love to take the feedback so that I can get better at these Wargames and learn some tricks!
 
 ## ✔️ Completions
-- [ ] Bandit
-- [ ] Natas
-- [ ] Leviathan
-- [ ] Krypton
-- [ ] Narnia
-- [ ] Behemoth
-- [ ] Utumno
-- [ ] Maze
-- [ ] Vortex
-- [ ] Semtex
-- [ ] Manpage
-- [ ] Drifter
+- [ ] [Bandit](https://overthewire.org/wargames/bandit/)
+- [ ] [Natas](https://overthewire.org/wargames/natas/)
+- [ ] [Leviathan](https://overthewire.org/wargames/leviathan/)
+- [ ] [Krypton](https://overthewire.org/wargames/krypton/)
+- [ ] [Narnia](https://overthewire.org/wargames/narnia/)
+- [ ] [Behemoth](https://overthewire.org/wargames/behemoth/)
+- [ ] [Utumno](https://overthewire.org/wargames/utumno/)
+- [ ] [Maze](https://overthewire.org/wargames/maze/)
+- [ ] [Vortex](https://overthewire.org/wargames/vortex/)                                                             
+- [ ] [Semtex](https://overthewire.org/wargames/semtex/)
+- [ ] [Manpage](https://overthewire.org/wargames/manpage/)
+- [ ] [Drifter](https://overthewire.org/wargames/drifter/)

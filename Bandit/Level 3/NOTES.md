@@ -7,3 +7,6 @@ Spaces in filenames are not an uncommon thing, so it's important to know how to 
 In my opinion putting the path in a string is easier. It's less tedious, and at the time of writing this I'm not aware of any downsides to it! So, let's do `cat 'spaces in this filename'`, and find our password!
 
 The password we got is `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`.
+
+## Sources
+https://overthewire.org/wargames/bandit/bandit3.html
